@@ -1,0 +1,6 @@
+std = "roblox"
+
+exclude = ["Packages/**"]
+
+[lints]
+mixed_table = "allow"
